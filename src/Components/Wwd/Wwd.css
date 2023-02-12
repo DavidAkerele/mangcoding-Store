@@ -1,0 +1,73 @@
+.title {
+    color: var(--primary-color);
+    font-weight: 400;
+}
+
+.header{
+    font-weight: 700;
+}
+
+.lorem{
+    color: var(--tet-color);
+}
+
+.wwdone{
+    display: grid;
+    width: 364px;
+    height: 255px;
+}
+
+.wwdtwo{
+    display: flex;
+    gap: 10px;
+    padding-top: 111px;
+    padding-bottom: 144px;
+    justify-content: space-between;
+}
+
+.sect{
+    width: 267px;
+    height: 267px;
+    border: 2px solid var(--primary-color);
+    border-radius: 10px;
+    background: var(--primary-color);
+    display: flex;
+ 
+    flex-direction: column;
+    padding-top:40px;
+    padding-left:16px;
+    
+}
+
+.sect h4, h6{
+    color: white;
+}
+
+.sect-image{
+    width:48px;
+    height:48px;
+    background:#fff;
+    border-radius: 50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:8px;
+}
+
+.sect img{
+    
+    
+    width: 32px;
+    height: 32px;
+}
+
+.wedo{
+    display: flex;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    gap: 10px;
+    height: auto;
+    width:1141.5px;
+    margin:auto;
+}

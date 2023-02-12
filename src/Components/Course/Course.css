@@ -1,0 +1,59 @@
+.body{
+    background:linear-gradient(180deg, #545BE8 0%, #272DB0 100%);
+    width: 100%;
+    height: 643px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.course-left{
+    width: 558px;
+    height: 576px;
+}
+
+.course-right{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    gap: 15.99px;
+}
+
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1141.5px;
+    gap: 125px;
+}
+
+.rightthree{
+    color: var(--blah-color);
+    font-weight: 400;
+    font-size: 18px;
+}
+.righttwo{
+    color: var(--background-color);
+    font-weight: 700;
+    font-size: 40px;
+}
+.rightone{
+    color: var(--secondary-color);
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.rightdwn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+}
+
+.tett{
+    color: var(--secondary-color);
+    font-weight: 700;
+    font-size: 18px;
+}
+
